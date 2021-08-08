@@ -7,7 +7,8 @@ What is someone wanted to quickly place these 41 cities into different groups? I
 Principal component analysis creates a 2D graph that clusters cities together based off similarities of their characteristics listed above. In the PCA biplot you can see the impact of each variable when it comes to putting cities on the graph. Cities with high precipitation are more likely to be further up and to the right on the graph. Cities with higher temperatures and lower populations are more likely to be in the bottom left ortion of the graph, and cities with higher populations but lower populations and precipitation are more likely to be in the bottom right portion.
 
 ### Part 2: K means clustering
-Using K means clustering the cities were put into four groups. 
+Using K means clustering the cities were put into four groups.
+
 Group 1: Phoenix, Albuquerque, San Francisco, Denver, Salt Lake City, Dallas, Wichita, Omaha, Kansas City, Des Moines.
 
 Group 2: Miami, New Orleans, Jacksonville, Nashville, Little Rock, Richmond, Memphis, Houston
