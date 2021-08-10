@@ -9,10 +9,14 @@ Principal component analysis creates a 2D graph that clusters cities together ba
 ### Part 2: K means clustering
 Using K means clustering the cities were put into four groups.
 
-Group 1: Phoenix, Albuquerque, San Francisco, Denver, Salt Lake City, Dallas, Wichita, Omaha, Kansas City, Des Moines.
 
-Group 2: Miami, New Orleans, Jacksonville, Nashville, Little Rock, Richmond, Memphis, Houston
+Group 1: Philadephia, Chicago
 
-Group 3: Charleston, Seattle, Buffalo, Providence, Cleveland, Minnepolis--St. Paul, Detroit, St. Louis, Washington, Milwaukee, Indianapolis, Columbus, Cincinnati, Wilmington
 
-Group 4: Philadephia, Chicago
+Group 2: Charleston, Seattle, Buffalo, Providence, Cleveland, Minnepolis--St. Paul, Detroit, St. Louis, Washington, Milwaukee, Indianapolis, Columbus, Cincinnati, Wilmington
+
+
+Group 3: Miami, New Orleans, Jacksonville, Nashville, Little Rock, Richmond, Memphis, Houston
+
+
+Group 4: Phoenix, Albuquerque, San Francisco, Denver, Salt Lake City, Dallas, Wichita, Omaha, Kansas City, Des Moines.
