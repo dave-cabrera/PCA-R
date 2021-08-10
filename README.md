@@ -13,6 +13,6 @@ Group 1: Phoenix, Albuquerque, San Francisco, Denver, Salt Lake City, Dallas, Wi
 
 Group 2: Miami, New Orleans, Jacksonville, Nashville, Little Rock, Richmond, Memphis, Houston
 
-Group 3: Charleston, Seattle, Buffalo, Providence, Cleveland, St. Paul, Detroit, St. Louis, Washington, Milwaukee, Minneapolis, Indianapolis, Columbus, Cincinnati
+Group 3: Charleston, Seattle, Buffalo, Providence, Cleveland, Minnepolis--St. Paul, Detroit, St. Louis, Washington, Milwaukee, Indianapolis, Columbus, Cincinnati, Wilmington
 
 Group 4: Philadephia, Chicago
